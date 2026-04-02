@@ -44,10 +44,6 @@ Developed using the **Arduino IDE** with the following dependencies:
 
 ---
 
-## 📂 Repository Contents
-* **`Documentation.pdf`**: The full 47-page technical report including schematics and test results.
-* **`Source_Code/`**: Contains the Enrollment and Verification sketches.
-* **`Diagrams/`**: Hardware architecture, Fritzing schematics, and system flowcharts.
 
 ---
 *Developed as a Major Project at Islington College (London Metropolitan University).*
